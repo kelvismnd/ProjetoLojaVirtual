@@ -16,7 +16,7 @@ O projeto vai ser divido em :
       * Recursos Humanos e Operacionais
       * Riscos Operacionais  
       
-## WebSite
+## Site Web
 
 1. Tela Inicial
 2. Site Completo
